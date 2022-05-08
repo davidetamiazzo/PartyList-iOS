@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  PartyList
+
+  Created by Davide Tamiazzo on 29/06/2020.
+  Copyright © 2020 Davide Tamiazzo. All rights reserved.
+*/
+
+"Insert player..." = "Insert player...";
+"Add to boys" = "Add to boys";
+"Add to girls" = "Add to girls";
+"Play" = "Play";
+"Challenge" = "Challenge";
+"challenge1" = "player1 si scambia di posto con player2 ballando a braccetto";
+"challenge2" = "player1 bacia player2 in modo passionale";
+"challenge3" = "player1 sculaccia player2, deve sentirsi lo schiocco";
+"challenge4" = "player1 fai un ballo sexy di fronte a player2 dopo aver finito la tua bevuta";
+"challenge5" = "player1 sfida player2 a dire \"Tigre contro tigre\". Chi non riesce beve 2 sorsi";
+"challenge6" = "player1 inizia a fare un massaggio a player2 sulla parte del corpo che secondo te apprezzerebbe di più";
+"challenge7" = "player1 mima un titolo di un film, se player2 indovina bevi tu, altrimenti beve lui/lei";
+"challenge8" = "player1 sfida player2: chi rimane più a lungo in piedi con una gamba piegata vince. L\'altro beve";
+"challenge9" = "player1 devi dire \"Chiaro\" ogni volta che player2 finisce una frase";
+"challenge10" = "player1 delizier\à player2 con un balletto sexy, altrimenti beve met\à del suo drink";
+"challenge11" = "player1 si scalda le mani per 10 secondi al calore delle gonadi di player2, che divarica elegantemente le gambe";
+"challenge12" = "player1 si scambia di posto con player2 e i due si scambiano un bacio nel tragitto";
+"challenge13" = "player1 si gira e si fa toccare la schiena da player2 usando una qualsiasi parte del corpo. L\'obbiettivo \è indovinare quale parte \è stata utilizzata";
+"challenge14" = "player1 sceglie un soprannome per player2, che dovr\à essere utilizzato da tutti i giocatori per rivolgergli/le la parola, fino alla fine del gioco. Se il soprannome \è sconcio, la persona nominata beve";
